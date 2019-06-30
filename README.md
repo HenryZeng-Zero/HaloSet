@@ -15,11 +15,11 @@
 2. 支持Java运行环境
 3. 支持Python3
 
-####总计安装：
+###总计安装：
 `sudo apt install openjdk-8* openjfx python3`
 >建议使用tuna的apt源
 
-####启用脚本：
+###启用脚本：
 `git clone https://github.com/zzh-blog/HaloSet.git`
 
 `sudo chmod 777 -R HaloSet`
